@@ -1,0 +1,23 @@
+body {
+    background-image: url(https://images.alphacoders.com/821/thumb-1920-821092.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header{
+    color: hotpink;
+}
+
+div{
+    color: hotpink;
+}
+
+.header{
+    font-family: 'Blaka Hollow', cursive;
+    font-size: 80px;
+}
+
+.div{
+    font-family: 'Indie Flower', cursive;
+    font-size: 70px;
+}
